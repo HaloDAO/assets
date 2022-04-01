@@ -1,0 +1,11 @@
+{
+  "name": "Wormhole UST",
+  "symbol": "UST",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "-",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0xa693b19d2931d498c5b318df961919bb4aee87a5",
+  "status": "active",
+  "id": "0xa693b19d2931d498c5b318df961919bb4aee87a5"
+}
