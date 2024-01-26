@@ -1,0 +1,11 @@
+{
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "",
+    "website": "https://www.sushi.com/",
+    "explorer": "https://snowtrace.io/token/0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+    "status": "active",
+    "id": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76"
+}
