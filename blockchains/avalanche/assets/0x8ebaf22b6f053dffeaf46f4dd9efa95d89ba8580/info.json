@@ -3,10 +3,10 @@
     "website": "https://uniswap.org/",
     "description": "The Uniswap Protocol is an open-source protocol for providing liquidity and trading ERC20 tokens on Ethereum.",
     "socials": [],
-    "explorer": "https://snowtrace.io/token/0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+    "explorer": "https://snowtrace.io/token/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
     "type": "ERC20",
     "symbol": "UNI",
     "decimals": 18,
     "status": "active",
-    "id": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580"
+    "id": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580"
 }
