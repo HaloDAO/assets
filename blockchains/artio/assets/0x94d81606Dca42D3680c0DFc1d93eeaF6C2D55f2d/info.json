@@ -1,11 +1,11 @@
 {
-  "name": "Mock HONEY",
-  "symbol": "HONEY",
+  "name": "Mock USDC",
+  "symbol": "USDC",
   "type": "ERC20",
-  "decimals": 18,
+  "decimals": 6,
   "description": "-",
   "website": "",
-  "explorer": "https://artio.beratrail.io/address/0xd23Cd7a9FF611ba3B3b31a424B530885C638ced9",
+  "explorer": "https://artio.beratrail.io/address/0x94d81606Dca42D3680c0DFc1d93eeaF6C2D55f2d",
   "status": "active",
-  "id": "0xd23Cd7a9FF611ba3B3b31a424B530885C638ced9"
+  "id": "0x94d81606Dca42D3680c0DFc1d93eeaF6C2D55f2d"
 }
